@@ -1,0 +1,52 @@
+.orange{
+    color: orange ;
+}
+.button{
+    text-decoration: none;
+    border-radius: 15px;
+    background-image: linear-gradient(orangered, orange);
+    color: white;
+    padding:10px;
+}
+.half-width{
+    width: 50%;
+    text-align: center;
+}
+.half-width img{
+    width: 50%;   
+}
+section{
+    display: flex;
+}
+.first{
+    margin-bottom: 50px;
+}
+.second{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+.third{
+    display: flex;
+}
+.middle{
+    text-align: center;
+}
+.box-shadow{
+    padding: 10px;
+    box-shadow: grey 5px 5px 10px;
+    margin: 35px;
+    border-radius: 10px;
+    width: 90%;
+}
+.box-shadow img{
+    padding-left: 15px;
+width: 80%;
+}
+.box-shadow h3{
+   text-align: center;
+    }
+    .footer{
+        background-color: black;
+        color: white;
+        height: 120px;
+    }
